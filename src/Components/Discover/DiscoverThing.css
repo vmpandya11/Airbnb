@@ -1,0 +1,27 @@
+.live-title-discover {
+    margin-left: -1060px;
+    margin-top: 20px;
+
+}
+
+
+
+.dog-box {
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.dog-image {
+    max-width: 100%;
+    border-radius: 20px;
+}
+
+.dogimg .col-md-3 {
+    margin-bottom: 20px;
+}
+
+.img-body {
+    position: relative;
+    left: -40px;
+    margin-top: 20px;
+}

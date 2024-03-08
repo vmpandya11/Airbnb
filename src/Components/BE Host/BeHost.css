@@ -1,0 +1,22 @@
+.Be-a-host {
+    display: flex;
+    text-align: justify;
+    margin-left: 35px;
+    margin-top: 1px;
+    font-size: 30px;
+}
+
+.col-sm-6 p {
+
+    text-align: justify;
+}
+
+.behost {
+    margin-right: 529px;
+    margin-top: 30px;
+    background: white;
+    border-color: black;
+    border: 1px solid black;
+    color: #1111e2;
+    border-radius: 10px;
+}

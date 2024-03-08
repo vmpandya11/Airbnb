@@ -1,0 +1,8 @@
+.list-unstyled li a {
+    text-decoration: none;
+}
+
+#MDBCONTAINER {
+    align-items: flex-start;
+    text-align: justify;
+}

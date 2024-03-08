@@ -1,0 +1,36 @@
+ .header-host {
+     width: 1536px;
+     height: 300px;
+     background: black;
+     display: flex;
+     overflow: hidden;
+ }
+
+ h1.host-heading {
+     font-size: 64px;
+     text-align: center;
+     padding-bottom: 18px;
+     white-space: nowrap;
+     color: white;
+     margin-top: 80px;
+     display: flex;
+     position: absolute;
+
+ }
+
+ .try-hosting {
+     margin-top: 170px;
+     margin-left: 350px;
+ }
+
+ .host {
+     white-space: nowrap;
+     overflow: hidden;
+     text-overflow: ellipsis;
+     max-width: 200px;
+ }
+
+ .video-section {
+     width: 100%;
+     margin-left: 550px;
+ }

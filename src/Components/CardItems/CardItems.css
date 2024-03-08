@@ -1,0 +1,52 @@
+.card-img-top {
+    border-radius: 20px;
+    overflow: hidden;
+    border: none;
+}
+
+.carousel-image {
+    height: 300px;
+    object-fit: cover;
+}
+
+#silder-product-container {
+    margin-left: -10px;
+    display: contents;
+}
+
+.card {
+    border: none;
+}
+
+.carousel-image {
+
+    border-radius: 20px;
+}
+
+.Los-Angeles-txt {
+    justify-content: space-between;
+    color: black;
+}
+
+.Los-Angeles-txt {
+    justify-content: space-between;
+    color: black;
+    padding: 10px;
+    margin-left: 10px;
+    ;
+
+}
+
+.detail-content {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.description {
+    margin-right: 20px;
+}
+
+p {
+    margin-bottom: 0px;
+}

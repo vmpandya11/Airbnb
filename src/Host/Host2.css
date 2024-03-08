@@ -1,0 +1,48 @@
+.header-host2 {
+
+    height: 400px;
+    width: 1536px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    /* justify-content: flex-start; */
+
+}
+
+.video-section2 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    margin-right: 900px;
+}
+
+h1.host-heading2 {
+    font-size: 50px;
+    text-align: center;
+    padding-bottom: 150px;
+    white-space: nowrap;
+    color: white;
+    /* margin-top: 80px; */
+    display: flex;
+    position: absolute;
+    margin-left: 800px;
+
+}
+
+.host-h5 {
+
+    color: white;
+    white-space: nowrap;
+    position: absolute;
+    margin-left: 955px;
+
+
+}
+
+.try-hosting2 {
+    position: absolute;
+    left: 50%;
+    margin-top: 150px;
+    margin-left: 350px;
+    /* Adjust margin as needed */
+}
