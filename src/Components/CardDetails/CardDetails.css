@@ -1,0 +1,311 @@
+#container_details {
+    flex-direction: column;
+    display: flex;
+    float: left;
+}
+
+h3 {
+    margin-top: 40px;
+    margin-left: -140px;
+}
+
+#Maldives {
+    margin-right: auto;
+    margin-left: 180px;
+    margin-top: 20px;
+    display: flex;
+}
+
+#Maldives a {
+    color: black;
+}
+
+#share {
+    margin-left: 865px;
+}
+
+#second-image {
+    margin-left: -150px;
+}
+
+.imageslider-container {
+
+    display: flex;
+    margin-left: 100px;
+}
+
+.imageslider6 {
+    width: 50%;
+    margin-right: 20px;
+}
+
+
+.imageslider6 img {
+    width: 100%;
+    width: 500px;
+    height: 100%;
+    margin-top: 50px;
+}
+
+
+
+#dom-hosted {
+    margin-top: 30px;
+    display: flex;
+    margin-left: 310px;
+}
+
+#dom-hosted p {
+    margin-top: 75px;
+    position: absolute;
+    margin-left: -139px;
+
+}
+
+.hr {
+    margin-left: 140px;
+    margin-top: 30px;
+    width: 90%;
+}
+
+.dive_right {
+    display: flex;
+    margin-left: 170px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.dive_right p {
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 35px;
+}
+
+.fawater {
+    margin-right: 20px;
+}
+
+.aircover img {
+    height: 30px;
+    float: left;
+    margin-left: 170px
+}
+
+.everybook {
+    margin-right: 80px;
+    margin-top: 50px;
+}
+
+.everybook a {
+    color: #000;
+    font-weight: bold;
+    position: absolute;
+    margin-left: -439px;
+}
+
+.Adaaran {
+    margin-right: 331px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+.bedroom {
+    margin-right: 580px;
+    margin-bottom: 20px;
+}
+
+.box {
+    width: 170px;
+    height: 100px;
+    border-radius: 10px;
+    margin-left: 170px;
+    margin-top: 40px;
+    border: 1px solid black
+}
+
+
+.fabed {
+    font-size: 30px;
+    margin-right: 40px;
+}
+
+
+.amenities {
+    flex-direction: column;
+    margin-right: 200px;
+    margin-top: 40px;
+    text-align-last: justify;
+    margin-left: 200px;
+    font-size: 25px;
+}
+
+.amenities2 {
+    flex-direction: column;
+    margin-left: -40px;
+    margin-top: 40px;
+    text-align-last: justify;
+
+    font-size: 25px;
+}
+
+.showall {
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 170px;
+    margin-top: 40px;
+    border: 1px solid black
+}
+
+.date {
+    margin-right: 775px;
+}
+
+.calendar-wrapper {
+
+    margin-top: 40px;
+    margin-left: 160px
+}
+
+.calendar-wrapper {
+    display: flex;
+}
+
+.calendar-wrapper .react-datepicker-wrapper {
+    margin-right: 20px;
+    /* Adjust spacing between calendars */
+}
+
+.vertical-line {
+    width: 1px;
+    height: 100%;
+    background-color: #020202;
+    margin: 0 10px;
+}
+
+.star {
+    font-size: 40px;
+    margin-right: 680px;
+    margin-top: -100px;
+}
+
+.review {
+    margin-right: 850px;
+    margin-top: 10px;
+}
+
+.profile-circle-image-70 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-left: 150px;
+}
+
+.media-body {
+    margin-left: 10px;
+}
+
+.profile-circle-image-70 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+#reviews_detail {
+
+    position: relative;
+    left: 120px;
+    text-align: justify;
+}
+
+.show_all_reviews {
+    border-color: #000;
+    margin-right: 860px;
+    background-color: white;
+    color: #000;
+    margin-top: -70px;
+
+}
+
+.map {
+    margin-right: 90px;
+}
+
+.lookbook-main {
+    margin-top: 50px;
+}
+
+.loobook-img img {
+
+    width: 70px;
+    margin-right: 1070px;
+}
+
+.lookbook-text {
+    margin-right: 600px;
+    margin-top: -55px;
+}
+
+.lookbook-star {
+    margin-right: 1020px;
+    margin-top: 30px
+}
+
+.lookbook-star h6 {
+    margin-left: 120px;
+    margin-top: -20px;
+}
+
+.checkicon {
+    margin-right: 750px;
+    margin-top: -30px;
+}
+
+.checkicon h6 {
+    margin-left: 160px;
+    margin-top: -20px;
+}
+
+.inner-icon-text {
+    margin-right: 70px;
+}
+
+.lookbook-p p {
+    margin-left: 160px;
+    text-align: justify;
+}
+
+.exclmationCircle {
+    margin-right: 1090px;
+    margin-top: 30px
+}
+
+.exclmationCircle p {
+    margin-left: 190px;
+    text-align: justify;
+    margin-top: -23px;
+}
+
+.thing {
+    padding-bottom: 48px;
+    padding-top: 48px;
+}
+
+.thing-heading {
+    padding-bottom: 20px;
+}
+
+.health {
+    text-align: justify;
+    margin-left: 100px;
+}
+
+.house {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 160px;
+    width: 200px;
+}

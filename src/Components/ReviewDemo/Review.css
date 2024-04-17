@@ -1,0 +1,15 @@
+.main-container {
+    margin-right: 100px;
+    /* overflow: hidden; */
+}
+
+.scroll-container {
+    height: 500px;
+    width: 500px;
+    /* Adjust height as needed */
+    overflow-x: hidden;
+}
+
+.star2 {
+    font-size: 30px;
+}

@@ -1,0 +1,23 @@
+/* PopBox.css */
+
+.custom-button {
+    color: black;
+    border-color: black;
+    background-color: transparent;
+}
+
+.scrollbar-custom {
+    overflow-y: auto;
+}
+
+.logo {
+    width: 25px;
+    height: 25px;
+    float: left;
+}
+
+.scrollbar-custom {
+    height: 300px;
+    /* Adjust the height as needed */
+    overflow-y: auto;
+}

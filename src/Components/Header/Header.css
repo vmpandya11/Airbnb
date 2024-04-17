@@ -1,0 +1,71 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.Header {
+    background-color: #030e56;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+.airbnb {
+    padding-bottom: 10px;
+}
+
+
+.img {
+    float: left;
+}
+
+#dropdown-basic {
+    background: white;
+    color: black;
+    border-radius: 35px;
+    height: 50px;
+
+}
+
+
+.dropdown-toggle {
+    display: flex;
+    align-items: center;
+}
+
+.griplines {
+    margin-bottom: 1px;
+
+}
+
+
+
+.place-to-stay {
+    display: flex;
+    justify-content: center;
+    color: white;
+    gap: 20px;
+
+}
+
+
+.dropdown-toggle,
+.user-icon,
+.griplines {
+    margin-right: 8px;
+}
+
+.user-icon {
+    width: 20%;
+    margin-bottom: 5px;
+}
+
+.host-button {
+    background: none;
+    border: none;
+}

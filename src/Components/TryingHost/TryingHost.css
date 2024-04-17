@@ -1,0 +1,39 @@
+.custombanner img {
+    /* margin-left: -60px; */
+    padding: 25px;
+    width: 100%;
+}
+
+.main-try-host-data {
+    margin-top: -350px;
+    margin-left: 100px;
+}
+
+.try-hosting-item {
+
+    text-align: justify;
+}
+
+.try-host-title {
+    color: white;
+}
+
+.try-hosting-button {
+
+    margin-left: -1px;
+    margin-top: 50px;
+    background-color: white;
+    color: black;
+}
+
+.try-hosting-button {
+    background: white;
+    color: black;
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.trying-host-conatiner {
+    height: 550px;
+}
